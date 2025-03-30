@@ -2,7 +2,7 @@
 
 * GRUPO 6
 ---------------------------
-1 - PAULO RICARDO
+1 - PAULO RICARDO \n
 2 - DANDARA LIMA
 3 - NATHAN DOS SANTOS
 4 - NIKOLAS WINTTER
