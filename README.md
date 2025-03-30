@@ -1,1 +1,12 @@
-# Projeto-Final-da-disciplina-de-BD
+# Projeto Final da disciplina de BD
+
+* GRUPO 6
+---------------------------
+1 - PAULO RICARDO
+2 - DANDARA LIMA
+3 - NATHAN DOS SANTOS
+4 - NIKOLAS WINTTER
+5 - JOÃO PEDRO RODRIGUES
+6 - LUCAS PRADO
+
+* CONTEXTUALIZAÇÃO DO PROJETO:
