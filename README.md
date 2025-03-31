@@ -27,9 +27,9 @@ O projeto final inclui um banco de dados relacional com:
 ◾ Modelagem: BRModeloWeb
 
 ## GRUPO
-1 - PAULO RICARDO <br>
-2 - DANDARA LIMA <br>
-3 - NATHAN DOS SANTOS <br>
-4 - NIKOLAS WINTTER <br>
-5 - JOÃO PEDRO RODRIGUES <br>
-6 - LUCAS PRADO <br>
+1 - DANDARA LIMA <br>
+2 - JOÃO PEDRO RODRIGUES <br>
+3 - LUCAS PRADO <br>
+4 - NATHAN DOS SANTOS <br>
+5 - NIKOLAS WINTTER <br>
+6 - PAULO RICARDO <br>
