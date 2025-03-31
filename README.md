@@ -2,7 +2,7 @@
 
 ## Visão Geral
 <p> 
- O projeto final da nossa disciplina de Banco de Dados consiste em um sistema completo de gestão para clínicas odontológicas. A modelagem proposta pode ser aplicada em clínicas odontológicas que buscam um sistema eficiente de gestão de pacientes, dentistas e consultas. Com um banco de dados bem estruturado, é possível organizar os horários dos profissionais, registrar os procedimentos realizados, armazenar informações detalhadas de pacientes e seus contatos, além de facilitar o controle de agendamentos e históricos clínicos. Essa estrutura possibilita integração com sistemas de prontuário eletrônico, emissão de relatórios e até mesmo funcionalidades para envio de lembretes automatizados de consultas por e-mail ou SMS. Dessa forma, a modelagem contribui para a modernização da gestão clínica, garantindo mais eficiência e qualidade no atendimento.
+ O projeto final da nossa disciplina de Banco de Dados consiste em um sistema completo de gestão para clínicas odontológicas. A modelagem proposta pode ser aplicada em clínicas odontológicas que buscam um sistema eficiente de gestão de pacientes, dentistas e consultas. Com um banco de dados bem estruturado, é possível organizar os horários dos profissionais, registrar os procedimentos realizados, armazenar informações detalhadas de pacientes e seus contatos, além de facilitar o controle de agendamentos e históricos clínicos. Dessa forma, a modelagem contribui para a modernização da gestão clínica, garantindo mais eficiência e qualidade no atendimento.
 O projeto final inclui um banco de dados relacional com:
 </p>
 
