@@ -11,10 +11,10 @@ O projeto final inclui um banco de dados relacional com:
 🔹Consultas SQL para análise de dados.
 
 ## Documentação
-### 1. Modelo Conceitual
+### Modelo Conceitual
 ![Modelo Conceitual - Projeto Final DB](https://github.com/user-attachments/assets/a7eb0e27-6834-48b9-a255-d795c9f90c9f)
 
-### 2. Modelo Lógico
+### Modelo Lógico
 ![Modelo Lógico - Projeto Final DB](https://github.com/user-attachments/assets/755ffc15-4aa2-4100-8b01-631d04ed27c9)
 
 <div align="center">
