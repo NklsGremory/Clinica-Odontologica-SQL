@@ -40,5 +40,8 @@ O projeto final inclui um banco de dados relacional com:
 5 - NIKOLAS WINTTER DE OLIVEIRA SCHUMAKER <br>
 6 - PAULO RICARDO CORREA CARDOSO <br>
 
+### Professor Responsável: 
+  RICARDO DE J. OLIVEIRA
+
 ---
 ![image](https://github.com/user-attachments/assets/e12a29dc-b73f-4922-88e3-fb46163b072a)
