@@ -33,3 +33,6 @@ O projeto final inclui um banco de dados relacional com:
 4 - NATHAN DOS SANTOS <br>
 5 - NIKOLAS WINTTER <br>
 6 - PAULO RICARDO <br>
+
+---
+![image](https://github.com/user-attachments/assets/e12a29dc-b73f-4922-88e3-fb46163b072a)
