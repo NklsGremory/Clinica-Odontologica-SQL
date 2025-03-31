@@ -11,14 +11,14 @@ O projeto final inclui um banco de dados relacional com:
 🔹Consultas SQL para análise de dados.
 
 ## Documentação
-
-[1. Modelagem Conceitual](inserirlink)
+### 1. Modelo Conceitual
+![Modelo Conceitual - Projeto Final DB](https://github.com/user-attachments/assets/a7eb0e27-6834-48b9-a255-d795c9f90c9f)
 
 ### 2. Modelo Lógico
-![Modelo Lógico - Projeto Final DB](https://github.com/user-attachments/assets/21fdce1d-7d6e-43bc-93c2-7cc0c8c0f417)
+![Modelo Lógico - Projeto Final DB](https://github.com/user-attachments/assets/755ffc15-4aa2-4100-8b01-631d04ed27c9)
 
 <div align="center">
-  <h3>3. Modelo Físico - Clique!</h3>
+  <h3>Modelo Físico - Clique!</h3>
   <a href="https://github.com/NklsGremory/Clinica-Odontologica-SQL/blob/16a9160720cae3c046d90160f8abf28053e1a010/ProjetoFinal%20-%20DB.sql" target="_blank"> 
    <img height ="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo"/>
   </a>
