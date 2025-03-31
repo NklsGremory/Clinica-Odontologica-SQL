@@ -14,7 +14,8 @@ O projeto final inclui um banco de dados relacional com:
 
 [1. Modelagem Conceitual](inserirlink)
 
-[2. Modelagem Lógica](inserirlink)
+### 2. Modelo Lógico
+![Modelo Lógico - Projeto Final DB](https://github.com/user-attachments/assets/21fdce1d-7d6e-43bc-93c2-7cc0c8c0f417)
 
 [3. Modelagem Física](inserirLink)
 
