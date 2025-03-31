@@ -17,7 +17,7 @@ O projeto final inclui um banco de dados relacional com:
 ### 2. Modelo Lógico
 ![Modelo Lógico - Projeto Final DB](https://github.com/user-attachments/assets/21fdce1d-7d6e-43bc-93c2-7cc0c8c0f417)
 
-[3. Modelagem Física](inserirLink)
+### [3. Modelagem Física - Clique!](https://github.com/NklsGremory/Clinica-Odontologica-SQL/blob/16a9160720cae3c046d90160f8abf28053e1a010/ProjetoFinal%20-%20DB.sql)
 
 ##  Tecnologias Utilizadas
 
@@ -28,11 +28,11 @@ O projeto final inclui um banco de dados relacional com:
 ◾ Modelagem: BRModeloWeb
 
 ## GRUPO
-1 - DANDARA LIMA <br>
+1 - DANDARA LIMA FERREIRA <br>
 2 - JOÃO PEDRO RODRIGUES <br>
-3 - LUCAS PRADO <br>
+3 - LUCAS JOSÉ DO PRADO SOUZA <br>
 4 - NATHAN DOS SANTOS <br>
-5 - NIKOLAS WINTTER <br>
+5 - NIKOLAS WINTTER DE OLIVEIRA SCHUMAKER <br>
 6 - PAULO RICARDO <br>
 
 ---
