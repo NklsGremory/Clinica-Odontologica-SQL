@@ -19,9 +19,9 @@ O projeto final inclui um banco de dados relacional com:
 
 <div align="center">
   <h3>3. Modelo Físico - Clique!</h3>
- <a href="https://github.com/NklsGremory/Clinica-Odontologica-SQL/blob/16a9160720cae3c046d90160f8abf28053e1a010/ProjetoFinal%20-%20DB.sql" target="_blank"> 
-  <img height ="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo"/>
- </a>
+  <a href="https://github.com/NklsGremory/Clinica-Odontologica-SQL/blob/16a9160720cae3c046d90160f8abf28053e1a010/ProjetoFinal%20-%20DB.sql" target="_blank"> 
+   <img height ="250" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo"/>
+  </a>
 </div>
 
 ##  Tecnologias Utilizadas
